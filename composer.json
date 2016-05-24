@@ -27,6 +27,5 @@
         "psr-4": {
             "Stfalcon\\Bundle\\PageBundle": ""
         }
-    },
-    "target-dir": "Stfalcon/Bundle/PageBundle"
+    }
 }
