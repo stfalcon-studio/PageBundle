@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Stfalcon\\Bundle\\PageBundle": ""
+            "Stfalcon\\Bundle\\PageBundle\\": ""
         }
     }
 }
